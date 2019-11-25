@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AudioRecorder</string>
+    <string name="unmount">External storage unmount!</string>
+    <string name="error_permission">You didn\'t give permission</string>
+    <string name="start_record">Начать запись</string>
+    <string name="stop_record">Остановить запись</string>
+    <string name="recording_in_progress">Идет запись</string>
+    <string name="start_play">Начать проигрывание записи</string>
+</resources>
